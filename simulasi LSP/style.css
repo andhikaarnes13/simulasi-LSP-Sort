@@ -1,0 +1,45 @@
+    * {
+    padding: 10px;
+    margin: 2px auto;
+    text-decoration: none;
+    align-items: center;
+
+    
+    }
+
+    #bg-login{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;   
+    background-color: aliceblue;
+    display: contents;
+    height: 10vh;
+    
+    
+    
+    
+    }
+    .box-login {
+    width: 300px;
+    min-height: 200px;
+    border: 1px solid #ccc;
+    background-color: aliceblue;
+    padding: 15px;
+    box-sizing: border-box;
+     
+    
+    }
+    .h2 {
+        text-align: center;
+    }
+
+    .btn {
+    padding: 8px 15px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+    }
+    
